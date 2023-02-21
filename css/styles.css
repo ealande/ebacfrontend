@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(0, 0, 0, 0.838);
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    color:darkgrey;
+    justify-content: space-around;
+}
+.container input{
+    background-color: rgba(102, 116, 122, 0.341);
+    margin: 2px;
+}
+.container form{
+    display: flex;
+    flex-direction: column;
+}
+
+.container button {
+    margin-top: 10px;
+    background-color: ghostwhite;
+}
